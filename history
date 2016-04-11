@@ -1,0 +1,18 @@
+open_with mplayer -f
+rename 美国罪案故事.American.Crime.Story.S01E02.中英字幕.WEB-HR.AAC.1024x576.x264.mp4
+d
+qa
+open_with 1
+open_with feh -F -- "$@"
+open_with 3
+search download
+search
+search dowan
+search down
+shell ll
+cd /home/anton/program/opensource
+delete 
+open_with 
+open_with smplayer
+
+delete
